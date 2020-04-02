@@ -1,6 +1,6 @@
 # terraform-aws-apigateway-authorizer-cache
 
-A repo to show an example of terraform not creating an api authorizer correctly when the `authorizer_result_ttl_in_seconds` is set to `0`.
+A repo to show an example of terraform not creating an api authorizer correctly when the `authorizer_result_ttl_in_seconds` is set to `0`.  More at terraform-providers/terraform-provider-aws#12633.
 
 ## Repro steps
 
